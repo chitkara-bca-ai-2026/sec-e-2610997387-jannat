@@ -1,0 +1,1 @@
+C:\Users\janna\AppData\Local\Python\pythoncore-3.14-64\python.exe c:/Users/janna/OneDrive/Desktop/Prg.Assignments/sec-e-2610997387-jannat/Python/lab14.py

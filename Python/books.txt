@@ -1,0 +1,5 @@
+Python Basics,John Smith,Programming
+Artificial Intelligence,Jane Lee,AI
+Learning Python,Sam Brown,Programming
+Machine Learning,Alex Green,AI
+Software Design,Chris White,Software Engineering
